@@ -1,0 +1,12 @@
+C:\Users\excel\VirajPatelChat\Shared\bin\Debug\net5.0\VirajPatelChat.Shared.deps.json
+C:\Users\excel\VirajPatelChat\Shared\bin\Debug\net5.0\VirajPatelChat.Shared.dll
+C:\Users\excel\VirajPatelChat\Shared\bin\Debug\net5.0\ref\VirajPatelChat.Shared.dll
+C:\Users\excel\VirajPatelChat\Shared\bin\Debug\net5.0\VirajPatelChat.Shared.pdb
+C:\Users\excel\VirajPatelChat\Shared\obj\Debug\net5.0\VirajPatelChat.Shared.csproj.AssemblyReference.cache
+C:\Users\excel\VirajPatelChat\Shared\obj\Debug\net5.0\VirajPatelChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\excel\VirajPatelChat\Shared\obj\Debug\net5.0\VirajPatelChat.Shared.AssemblyInfoInputs.cache
+C:\Users\excel\VirajPatelChat\Shared\obj\Debug\net5.0\VirajPatelChat.Shared.AssemblyInfo.cs
+C:\Users\excel\VirajPatelChat\Shared\obj\Debug\net5.0\VirajPatelChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\excel\VirajPatelChat\Shared\obj\Debug\net5.0\VirajPatelChat.Shared.dll
+C:\Users\excel\VirajPatelChat\Shared\obj\Debug\net5.0\ref\VirajPatelChat.Shared.dll
+C:\Users\excel\VirajPatelChat\Shared\obj\Debug\net5.0\VirajPatelChat.Shared.pdb
